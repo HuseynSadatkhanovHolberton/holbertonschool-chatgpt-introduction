@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 import sys
 
 def factorial(n):
@@ -24,3 +24,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print(factorial(num))
+
